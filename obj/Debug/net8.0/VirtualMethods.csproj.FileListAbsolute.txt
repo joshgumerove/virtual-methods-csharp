@@ -1,0 +1,14 @@
+C:\Users\jgume\source\repos\VirtualMethods\VirtualMethods\bin\Debug\net8.0\VirtualMethods.exe
+C:\Users\jgume\source\repos\VirtualMethods\VirtualMethods\bin\Debug\net8.0\VirtualMethods.deps.json
+C:\Users\jgume\source\repos\VirtualMethods\VirtualMethods\bin\Debug\net8.0\VirtualMethods.runtimeconfig.json
+C:\Users\jgume\source\repos\VirtualMethods\VirtualMethods\bin\Debug\net8.0\VirtualMethods.dll
+C:\Users\jgume\source\repos\VirtualMethods\VirtualMethods\bin\Debug\net8.0\VirtualMethods.pdb
+C:\Users\jgume\source\repos\VirtualMethods\VirtualMethods\obj\Debug\net8.0\VirtualMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jgume\source\repos\VirtualMethods\VirtualMethods\obj\Debug\net8.0\VirtualMethods.AssemblyInfoInputs.cache
+C:\Users\jgume\source\repos\VirtualMethods\VirtualMethods\obj\Debug\net8.0\VirtualMethods.AssemblyInfo.cs
+C:\Users\jgume\source\repos\VirtualMethods\VirtualMethods\obj\Debug\net8.0\VirtualMethods.csproj.CoreCompileInputs.cache
+C:\Users\jgume\source\repos\VirtualMethods\VirtualMethods\obj\Debug\net8.0\VirtualMethods.dll
+C:\Users\jgume\source\repos\VirtualMethods\VirtualMethods\obj\Debug\net8.0\refint\VirtualMethods.dll
+C:\Users\jgume\source\repos\VirtualMethods\VirtualMethods\obj\Debug\net8.0\VirtualMethods.pdb
+C:\Users\jgume\source\repos\VirtualMethods\VirtualMethods\obj\Debug\net8.0\VirtualMethods.genruntimeconfig.cache
+C:\Users\jgume\source\repos\VirtualMethods\VirtualMethods\obj\Debug\net8.0\ref\VirtualMethods.dll
