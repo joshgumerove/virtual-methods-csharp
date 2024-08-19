@@ -2,7 +2,11 @@
 
 bool shallAddPositiveOnly = true;
 
-NumbersSumCalculator calculator = shallAddPositiveOnly ? new PositiveNumbersSumCalculator() : new NumbersSumCalculator();
+NumbersSumCalculator calculator =
+    shallAddPositiveOnly ?
+    new PositiveNumbersSumCalculator() :
+    new NumbersSumCalculator();
+
 var sum = calculator.Calculate(numbers);
 
 Console.WriteLine("The sum is: " + sum);
