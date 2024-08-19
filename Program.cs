@@ -2,15 +2,8 @@
 
 bool shallAddPositiveOnly = true;
 
-int sum;
-if (shallAddPositiveOnly)
-{
-    sum = new PositiveNumbersSumCalculator().Calculate(numbers);
-}
-else
-{
-    sum = new NumbersSumCalculator().Calculate(numbers);
-}
+NumbersSumCalculator calculator = shallAddPositiveOnly ? new PositiveNumbersSumCalculator() : new NumbersSumCalculator();
+var sum = calculator.Calculate(numbers);
 
 Console.WriteLine("The sum is: " + sum);
 Console.ReadKey();

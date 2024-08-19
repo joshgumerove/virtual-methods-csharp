@@ -12,3 +12,4 @@ C:\Users\jgume\source\repos\VirtualMethods\VirtualMethods\obj\Debug\net8.0\refin
 C:\Users\jgume\source\repos\VirtualMethods\VirtualMethods\obj\Debug\net8.0\VirtualMethods.pdb
 C:\Users\jgume\source\repos\VirtualMethods\VirtualMethods\obj\Debug\net8.0\VirtualMethods.genruntimeconfig.cache
 C:\Users\jgume\source\repos\VirtualMethods\VirtualMethods\obj\Debug\net8.0\ref\VirtualMethods.dll
+C:\Users\jgume\source\repos\VirtualMethods\VirtualMethods\obj\Debug\net8.0\VirtualMethods.sourcelink.json
