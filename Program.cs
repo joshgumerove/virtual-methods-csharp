@@ -23,27 +23,26 @@ public class NumbersSumCalculator
 
         foreach (var num in nums)
         {
-            sum += num;
-        }
-
-        return sum;
-    }
-}
-
-public class PositiveNumbersSumCalculator
-{
-    public int Calculate(List<int> nums)
-    {
-        int sum = 0;
-
-        foreach (var num in nums)
-        {
-            if (num > 0)
+            if (ShallBeAdded(num))
             {
+
                 sum += num;
             }
         }
 
         return sum;
+    }
+
+    protected virtual bool ShallBeAdded(int num)
+    {
+        return true;
+    }
+}
+
+public class PositiveNumbersSumCalculator : NumbersSumCalculator
+{
+    protected override bool ShallBeAdded(int num)
+    {
+        return num > 0;
     }
 }

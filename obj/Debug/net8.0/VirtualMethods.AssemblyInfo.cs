@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VirtualMethods")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+26fcddca63dd37b2455acec00a3965db616e8fd1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+beb670670989155c57531a5460cf649760a1f027")]
 [assembly: System.Reflection.AssemblyProductAttribute("VirtualMethods")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VirtualMethods")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
